@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-color: rgb(219, 227, 241);
+}
+
+h1 {
+    font-size: 40px;
+    color: tomato;
+}
+
+h2 {
+    color: darkblue;
+}
+
+nav {
+    font-size: 24px;
+}
+
+p {
+    font-size: 18px;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    color: darkblue;
+}
+
